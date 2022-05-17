@@ -7,9 +7,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Section 1
+# Introduction
 
-# Section 2
+This is my introduction
+
+# Methods
+
+This is my methods section
 
 
-# Section 3
+# Conclusion
+
+# These are my references
+
+This is my conclusion
